@@ -10,13 +10,13 @@ Soy estudiante de Data Scientist en Henry y Comunicación Digitan en UNaB con un
 - 💫 Me atraen los proyectos de investigación en campos de la comunicación.
   
 #### Mis Habilidades: 
-💻 Python | SQL
-📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI 
-🛢 SQLServer | MySQL | BigQuery
-📊 Power BI
-⚙️ GitHub | Jupyter | Google Colab | Visual Studio Code
+💻 Python | SQL <br>
+📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI <br>
+🛢 SQLServer | MySQL | BigQuery<br>
+📊 Power BI<br>
+⚙️ GitHub | Jupyter | Google Colab | Visual Studio Code<br>
 
 #### Aquí dejo otros canales donde puedes contactarme:
-✉ Mail: eugememo@gmail.com
+✉ Mail: eugememo@gmail.com<br>
 💼 Linkedin: https://www.linkedin.com/in/maria-eugenia-memolli/
 #### "¡Gracias por pasarte! No dudes en ponerte en contacto si quieres charlar o colaborar en proyectos interesantes.🚀❤️" 
