@@ -8,7 +8,7 @@ Soy estudiante de Data Scientist en Henry y Comunicación Digitan en UNaB con un
 - 🎓 Estudio Ciencia de Datos en Henry y Tecnicatura en Comunicación Digital en la Universidad Nacional de Guillermo Brown 
 - 🌱 Me llama la atención la capacidad de crecimiento que tiene el área de Ciencias de Datos y la constante necesidad de actualizarse para mejorar. 
 - 💫 Me atraen los proyectos de investigación en campos de la comunicación.
-- 
+  
 #### Mis Habilidades: 
 💻 Python | SQL
 📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI 
