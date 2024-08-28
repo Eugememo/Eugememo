@@ -1,7 +1,7 @@
 ## ✨Hola a Todos! ✨
 Soy Eugenia, bienvenidos a mi GitHub
 
-Soy estudiante de Data Scientist en Henry y Comunicación Digitan en UNaB con un gran interés en manejo de datos y un profundo deseo por conocer en como se comunican las personas en redes sociales. 
+Soy graduada de Data Scientist en Henry y estudiante de Comunicación Digitan en UNaB con un gran interés en manejo de datos y un profundo deseo por conocer en como se comunican las personas en redes sociales. 
 
 #### Sobre mi: 
 - 🌍 Soy de Argentina y vivo en Buenos Aires. 
@@ -12,7 +12,7 @@ Soy estudiante de Data Scientist en Henry y Comunicación Digitan en UNaB con un
 #### Mis Habilidades: 
 💻 Python | SQL <br>
 📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI <br>
-🛢 SQLServer | MySQL | BigQuery<br>
+🛢  MySQL | BigQuery<br>
 📊 Power BI<br>
 ⚙️ GitHub | Jupyter | Google Colab | Visual Studio Code<br>
 
